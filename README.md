@@ -219,6 +219,7 @@ https://www.quora.com/What-is-serverless-computing
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [FunctionCI](https://github.com/rgfindl/functionci) - Continuous Integration for AWS Lambdas.
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist) 
+* [Gitment](https://github.com/imsun/gitment) - Gitment is a comment system based on GitHub Issues
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
